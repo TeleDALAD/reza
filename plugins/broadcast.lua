@@ -18,8 +18,8 @@ local function run(msg, matches)
 end
 return {
   patterns = {
-    "^[!/](broadcast) +(.+)$",
-    "^[!/](bc) (%d+) (.*)$"
+    "^(ارسال به همه گروه ها) +(.+)$",
+    "^(ارسال به گروه خاص) (%d+) (.*)$"
   },
   run = run
 }
