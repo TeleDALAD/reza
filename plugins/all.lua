@@ -148,8 +148,8 @@ end
 
 return {
   patterns = {
-  "^(همه)$",
-  "^(همه) (%d+)$"
+  "^([Aa]ll)$",
+  "^([Aa]ll) (%d+)$"
   },
   run = run
 }
