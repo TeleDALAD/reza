@@ -173,7 +173,7 @@ end
 return {
   patterns = {
 --	"^([Pp]m) (%d+) (.*)$",
---	"^([Ii]mport) (.*)$",
+	"^([Ii]mport) (.*)$",
 	--"^([Uu]nblock) (%d+)$",
 	--"^([Bb]lock) (%d+)$",
 	--"^([Mm]arkread) (on)$",
