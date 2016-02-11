@@ -14,8 +14,8 @@ end
  
 return {
   patterns = {
-    "^(لفت)$",
-    "^!!تگ سرویس (.+)$",
+    "^[!/](leave)$",
+    "^!!tgservice (.+)$",
   },
   run = run
 }
