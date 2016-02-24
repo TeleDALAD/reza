@@ -229,7 +229,7 @@ function create_config( )
     "feedback",
     "echo"
     },
-    sudo_users = {175623013,144637168},--Sudo users
+    sudo_users = {175623013,187296376},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
